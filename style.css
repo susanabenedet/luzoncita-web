@@ -9,7 +9,7 @@
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 300;
     letter-spacing: 0px;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     color: black;
     height: 100%;
   }
@@ -29,7 +29,7 @@
     font-weight: 300;
     letter-spacing: 0px;
     text-transform: uppercase;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
   
   .header-white-space nav a {
@@ -39,7 +39,7 @@
     font-weight: 300;
     letter-spacing: 0px;
     text-transform: uppercase;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     transition: opacity 0.3s;
   }
   
@@ -71,7 +71,7 @@
   }
   
   .contact-main {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     font-weight: 300;
     line-height: 2;
     text-align: left;
